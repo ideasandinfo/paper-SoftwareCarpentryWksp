@@ -4,3 +4,5 @@ I'm going to start writing...
 
 
 Methods Section Title
+Here is a methods section.
+
